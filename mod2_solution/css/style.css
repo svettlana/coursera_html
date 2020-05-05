@@ -1,15 +1,18 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 .title{
-position:absolute;
-  top:1px;
-  right:1px;
+position:relative;
+  top:-1px;
+  right:-1px;
   border:1px solid black;
   background:green;
 }
 .row {
   width: 100%;
+  position: relative;
 }
 p {
   border: 1px solid black;
