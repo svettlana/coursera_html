@@ -1,6 +1,15 @@
 h1{
 
 }
+#c1{
+border:1px solid black;
+}
+#c2{
+border:1px solid green;
+}
+#c3{
+border:1px solid yellow;
+}
 @media (min-width: 992px) {
   
 }
