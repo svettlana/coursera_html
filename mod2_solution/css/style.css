@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
 }
+h1{text-align:center;}
 #s1{background-color:yellow;}
 #s2{background-color:blue;}
 #s3{background-color:grey;}
