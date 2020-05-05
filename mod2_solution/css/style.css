@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
 }
+.title{
+position:absolute;
+  top:1px;
+  right:1px;
+}
 #c1{
 border:1px solid black;
 }
