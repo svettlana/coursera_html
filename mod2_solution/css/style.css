@@ -36,5 +36,9 @@ position:relative;
 }
 
 @media (max-width: 767px) {
-  
+  .col-md-6 {
+    float: left;
+     width: 100%;
+    border:1px solid black;
+  }
 }
