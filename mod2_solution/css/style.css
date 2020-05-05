@@ -43,6 +43,7 @@ h1{text-align:center;}
     padding:20px 10px 10px 10px;
     background:#888888;
   }
+   #last_column{width:100%;}
   }
 
 @media (max-width: 767px) {
