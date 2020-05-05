@@ -26,6 +26,8 @@ h1{text-align:center;}
     width: 33.33%;
     border:1px solid black;
     height:150px;
+    padding:10px;
+    background:#888888;
   }
 }
 
@@ -35,6 +37,8 @@ h1{text-align:center;}
      width: 50%;
     border:1px solid black;
     height:150px;
+    padding:10px;
+    background:#888888;
   }
 }
 
@@ -44,5 +48,7 @@ h1{text-align:center;}
      width: 100%;
     border:1px solid black;
     height:150px;
+    padding:10px;
+    background:#888888;
   }
 }
