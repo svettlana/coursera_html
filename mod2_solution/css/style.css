@@ -6,6 +6,7 @@ position:absolute;
   top:1px;
   right:1px;
   border:1px solid black;
+  background:green;
 }
 .row {
   width: 100%;
