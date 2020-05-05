@@ -28,9 +28,7 @@ h1{text-align:center;}
     padding:20px 10px 10px 10px;
     background:#888888;
   }
-  .container {
-    width: 980px;
-  }
+  
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -42,10 +40,7 @@ h1{text-align:center;}
     padding:20px 10px 10px 10px;
     background:#888888;
   }
-  .container {
-    width: 750px;
   }
-}
 
 @media (max-width: 767px) {
   .col-md-6 {
