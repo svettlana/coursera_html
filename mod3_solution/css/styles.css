@@ -1,0 +1,22 @@
+body {
+  font-size: 16px;
+}
+/** BODY **/
+.category-block,.category-tile {
+	background:lightyellow;
+}
+#main-content{
+	
+	padding:0px;
+
+}
+.category-tile {
+	text-align:center;	
+}
+.category-block{
+	 height:700px; 
+}
+.back{
+	position:absolute;
+	bottom:10px;
+}
